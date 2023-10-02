@@ -81,7 +81,7 @@ enter the date:24
 enter the month:8
 enter the year:20
 
-22/8/20
+24/8/20
 */
 
 /* Name-Purvansha Gehlod
