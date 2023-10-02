@@ -34,13 +34,13 @@ int main()
 }
 /*
 Output
-enter the rollno:2022
-enter the name:radha
-enter the fee:55000
+enter the rollno:12308
+enter the name:Seema
+enter the fee:20000
 
-2022    
-radha   
-55000
+12308
+Seema
+20000
 */
 
 /* Name-Purvansha Gehlod
@@ -77,11 +77,11 @@ int main()
     
 }
 /*Output
-enter the date:22
-enter the month:9
-enter the year:23
+enter the date:24
+enter the month:8
+enter the year:20
 
-22/9/23
+22/8/20
 */
 
 /* Name-Purvansha Gehlod
@@ -120,13 +120,13 @@ int main()
     
 }
 /*Output
-enter the rollno:2022
-enter the name:radha
-enter the fee:2500
+enter the rollno:12308
+enter the name:Seema
+enter the fee:30000
 
-2022    
-radha   
-2500
+12308
+Seema
+30000
 
 */
 /*Name-Purvansha Gehlod
